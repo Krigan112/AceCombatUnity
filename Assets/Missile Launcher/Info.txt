@@ -1,0 +1,18 @@
+Military Missile Launcher
+
+4413 Polys. 3 seperate meshes parented to each other around a center axis.
+
+8 X 1K textures in .TIF format
+
+Texture maps inculde normal maps, specular, texture and Specular(Alpha) for UNITY.
+
+Enjoy!
+
+Anything else you want or change feel free to drop me an email.
+
+duane_mayberry@yahoo.co.uk
+
+www.duanesmind.co.uk
+
+
+

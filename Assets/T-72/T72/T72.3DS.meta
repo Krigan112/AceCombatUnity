@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6d7929e7cfae5dc438a4ae439bd80402
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: SK_T72
+    100002: SK_T72_Dst
+    100004: //RootNode
+    100006: gun
+    100008: lazer
+    100010: left chain
+    100012: Main body
+    100014: main gun
+    100016: right chai
+    100018: rope
+    100020: smoke
+    100022: tools
+    100024: w009
+    100026: w010
+    100028: w011
+    100030: w012
+    100032: w013
+    100034: w014
+    100036: w015
+    100038: w016
+    100040: w1
+    100042: w2
+    100044: w3
+    100046: w4
+    100048: w5
+    100050: w6
+    100052: w7
+    100054: w8
+    400000: SK_T72
+    400002: SK_T72_Dst
+    400004: //RootNode
+    400006: gun
+    400008: lazer
+    400010: left chain
+    400012: Main body
+    400014: main gun
+    400016: right chai
+    400018: rope
+    400020: smoke
+    400022: tools
+    400024: w009
+    400026: w010
+    400028: w011
+    400030: w012
+    400032: w013
+    400034: w014
+    400036: w015
+    400038: w016
+    400040: w1
+    400042: w2
+    400044: w3
+    400046: w4
+    400048: w5
+    400050: w6
+    400052: w7
+    400054: w8
+    2300000: SK_T72
+    2300002: SK_T72_Dst
+    2300004: gun
+    2300006: lazer
+    2300008: left chain
+    2300010: Main body
+    2300012: main gun
+    2300014: right chai
+    2300016: rope
+    2300018: smoke
+    2300020: //RootNode
+    2300022: tools
+    2300024: w009
+    2300026: w010
+    2300028: w011
+    2300030: w012
+    2300032: w013
+    2300034: w014
+    2300036: w015
+    2300038: w016
+    2300040: w1
+    2300042: w2
+    2300044: w3
+    2300046: w4
+    2300048: w5
+    2300050: w6
+    2300052: w7
+    2300054: w8
+    3300000: SK_T72
+    3300002: SK_T72_Dst
+    3300004: gun
+    3300006: lazer
+    3300008: left chain
+    3300010: Main body
+    3300012: main gun
+    3300014: right chai
+    3300016: rope
+    3300018: smoke
+    3300020: //RootNode
+    3300022: tools
+    3300024: w009
+    3300026: w010
+    3300028: w011
+    3300030: w012
+    3300032: w013
+    3300034: w014
+    3300036: w015
+    3300038: w016
+    3300040: w1
+    3300042: w2
+    3300044: w3
+    3300046: w4
+    3300048: w5
+    3300050: w6
+    3300052: w7
+    3300054: w8
+    4300000: SK_T72
+    4300002: SK_T72_Dst
+    4300004: T-72 M1
+    4300006: main gun
+    4300008: gun
+    4300010: smoke
+    4300012: lazer
+    4300014: Main body
+    4300016: rope
+    4300018: tools
+    4300020: right chai
+    4300022: w009
+    4300024: w010
+    4300026: w011
+    4300028: w012
+    4300030: w013
+    4300032: w014
+    4300034: w015
+    4300036: w016
+    4300038: left chain
+    4300040: w1
+    4300042: w2
+    4300044: w3
+    4300046: w4
+    4300048: w5
+    4300050: w6
+    4300052: w7
+    4300054: w8
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
